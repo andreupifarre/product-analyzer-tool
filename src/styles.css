@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.json-output {
+  display: inline-block;
+  background-color: lightgrey;
+  width: 650px;
+  padding: 10px;
+  text-align: left;
+  overflow-wrap: break-word;
+}
